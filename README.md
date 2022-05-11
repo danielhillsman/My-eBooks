@@ -21,7 +21,9 @@
   * Repo Link
   [Repo Link](https://github.com/danielhillsman/eDaniels-BackEnd)
   [Live Link](https://radiant-eyrie-47380.herokuapp.com)
+  
   ## Installation
+  No installation required, but if you would like to clone Repo, here is instructions on how to clone to your local machine and run application.
   1) Clone repo with:
   ````
   git clone https://github.com/danielhillsman/My-eBooks.git
@@ -49,7 +51,7 @@
   
   ## Technology-Used
   
-  ***Javascript***, ***Node.js***,
+  ***Javascript, Node.js, MONGOOSE, EXPRESS, BCRYPT, JSONWEBTOKEN, APOLLO-SERVER-EXPRESS, GRAPHQL, BOOTSTRAP, REACT, and REACT-DOM.
   
   ## Usage
   
