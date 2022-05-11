@@ -6,6 +6,7 @@
   
   ## Description
   
+  A full stack MERN website that is both Front-End and Back-End. Running off a google book API and can search for any book. Once user is logged in or creates a new account to log in, they can access the Wishlist function. The User can then save to their local storage any book they like, to be able to go back and view any book they previously wanted to read in the tab "See your books".
   
   ## Table of Contents
  
@@ -55,7 +56,7 @@
   
   ## Usage
   
-  ***Apollo***, ***MongoDB***, and ***MERN***.
+  ***Apollo***, ***MongoDB***, ***Google Book API*** and ***MERN***.
   
   ## Questions?
 
