@@ -12,6 +12,7 @@
   * [Links](#links)
   * [Installation](#installation)
   * [Technology-Used](#technology-used)
+  * [Usage](#usage)
   * [Questions](#questions)
   * [Screenshots](#screenshots)
 
@@ -49,6 +50,10 @@
   ## Technology-Used
   
   ***Javascript***, ***Node.js***,
+  
+  ## Usage
+  
+  ***Apollo***, ***MongoDB***, and ***MERN***.
   
   ## Questions?
 
