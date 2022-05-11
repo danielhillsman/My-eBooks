@@ -44,7 +44,6 @@
   5) Run:
   ````
   npm run develop
-
   ````
   to start the server.
   <br />
