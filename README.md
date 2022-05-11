@@ -11,7 +11,6 @@
  
   * [Links](#links)
   * [Installation](#installation)
-  * [Usage](#usage)
   * [Technology-Used](#technology-used)
   * [Questions](#questions)
   * [Screenshots](#screenshots)
