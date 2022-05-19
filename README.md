@@ -20,8 +20,8 @@
   ## Links
  
   * Repo Link
-  [Repo Link](https://github.com/danielhillsman/eDaniels-BackEnd)
-  [Live Link](https://radiant-eyrie-47380.herokuapp.com)
+  - [Repo Link](https://github.com/danielhillsman/eDaniels-BackEnd)
+  - [Live Link](https://radiant-eyrie-47380.herokuapp.com)
   
   ## Installation
   No installation required, but if you would like to clone Repo, here is instructions on how to clone to your local machine and run application.
