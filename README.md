@@ -18,8 +18,6 @@
   * [Screenshots](#screenshots)
 
   ## Links
- 
-  * Repo Link
   - [Repo Link](https://github.com/danielhillsman/eDaniels-BackEnd)
   - [Live Link](https://radiant-eyrie-47380.herokuapp.com)
   
